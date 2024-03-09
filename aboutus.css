@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    background-image: url(./bgraj.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .8;
+}
+
+p{
+        width: 100%;
+        height: 85vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        font-family: 'Padauk', sans-serif;
+        font-weight: bolder;
+        font-size: 25px;
+        color: white;
+        
+}
+
+h1{
+    text-align: center;
+    padding-top: 5%;
+}
